@@ -173,4 +173,23 @@ a:hover {
     .project-info {
         text-align: center;
     }
+
+    .gill {
+        font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+        font-weight: bolder;
+        font-size: 4em;
+        color: #f2d2cc;
+    }
+
+    .categories {
+        font-size: 1em;
+    }
+
+    .GIT {
+        font-size: 2.5em;
+    }
+
+    #pagination span {
+        display: none;
+    }
  }
