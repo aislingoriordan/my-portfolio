@@ -68,7 +68,7 @@ a:hover {
     width: 100%;
     height: auto;
     transition: .5s ease;
-    border: 10px solid #f2d2cc;
+    border: 10px solid #9db7da;
 }
 
 .middle {
@@ -94,7 +94,7 @@ a:hover {
 .gill {
     font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
     font-weight: bolder;
-    color: #f2d2cc;
+    color: #9db7da;
 }
 
 .text {
@@ -103,7 +103,7 @@ a:hover {
     font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
     letter-spacing: 3px;
     font-size: 2em;
-    color: #f2d2cc;
+    color: #9db7da;
 }
 
 .text:hover {
@@ -131,7 +131,7 @@ a:hover {
 }
 
 .blush {
-    color: #f2d2cc;
+    color: #9db7da;
 }
 
 #email {
@@ -139,11 +139,11 @@ a:hover {
 }
 
 #pagination {
-    color: #f2d2cc;
+    color: #9db7da;
 }
 
 #pagination a:hover {
-    color: #f2d2cc;
+    color: #9db7da;
 }
 
 
@@ -178,7 +178,7 @@ a:hover {
         font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
         font-weight: bolder;
         font-size: 4em;
-        color: #f2d2cc;
+        color: #9db7da;
     }
 
     .categories {
